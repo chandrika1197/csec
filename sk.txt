@@ -1,0 +1,8 @@
+javac
+java
+javap
+
+javap java.lang.String
+
+mvn-version
+
